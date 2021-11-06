@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MinMaxOpeningBlack" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.company.MinMaxOpeningBlack" />
+    <module name="MorrisVariant" />
+    <option name="PROGRAM_PARAMETERS" value="./src/boards/board1_Black.txt ./src/boards/board2_Black.txt 5" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

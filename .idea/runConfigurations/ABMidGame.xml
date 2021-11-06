@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ABMidGame" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.company.ABMidGame" />
+    <module name="MorrisVariant" />
+    <option name="PROGRAM_PARAMETERS" value="./src/boards/ABMidBoardInput.txt ./src/boards/ABMidBoardOutput.txt 5" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

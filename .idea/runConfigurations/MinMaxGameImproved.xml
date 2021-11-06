@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MinMaxGameImproved" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.company.MinMaxGameImproved" />
+    <module name="MorrisVariant" />
+    <option name="PROGRAM_PARAMETERS" value="./src/boards/board3_improved.txt ./src/boards/board4_improved.txt 5" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
